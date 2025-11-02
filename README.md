@@ -1,2 +1,2 @@
-# Leetcode_in_c-
+# Leetcode_in_cpp
 solving leetcode problem while learning dsa
